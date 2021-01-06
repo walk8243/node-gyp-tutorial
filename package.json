@@ -1,0 +1,9 @@
+{
+  "name": "gyp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-gyp": "^7.1.2"
+  }
+}
